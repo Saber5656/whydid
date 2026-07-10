@@ -174,3 +174,38 @@ non-loopback http; Docker images. (Mirrors DESIGN.md §16.2.)
 
 New issues born from these must follow the same format as docs/issues/*.md and
 be added to §2/§3 here first.
+
+## 9. GitHub issue mapping (derived artifacts)
+
+Created 2026-07-08 from the drafts below. If a GitHub issue and its draft file
+disagree, the file wins (update the file first, then the issue).
+
+| Draft file | GitHub issue |
+|---|---|
+| issues/01-go-scaffold.md | [#2](https://github.com/Saber5656/whydid/issues/2) |
+| issues/02-ci-workflow.md | [#3](https://github.com/Saber5656/whydid/issues/3) |
+| issues/03-community-files.md | [#4](https://github.com/Saber5656/whydid/issues/4) |
+| issues/04-config-package.md | [#5](https://github.com/Saber5656/whydid/issues/5) |
+| issues/05-record-store.md | [#6](https://github.com/Saber5656/whydid/issues/6) |
+| issues/06-text-hygiene.md | [#7](https://github.com/Saber5656/whydid/issues/7) |
+| issues/07-hook-record-command.md | [#8](https://github.com/Saber5656/whydid/issues/8) |
+| issues/08-zsh-integration.md | [#9](https://github.com/Saber5656/whydid/issues/9) |
+| issues/09-bash-integration.md | [#10](https://github.com/Saber5656/whydid/issues/10) |
+| issues/10-tmux-capture.md | [#11](https://github.com/Saber5656/whydid/issues/11) |
+| issues/11-llm-core.md | [#12](https://github.com/Saber5656/whydid/issues/12) |
+| issues/12-openai-provider.md | [#13](https://github.com/Saber5656/whydid/issues/13) |
+| issues/13-anthropic-provider.md | [#14](https://github.com/Saber5656/whydid/issues/14) |
+| issues/14-payload-prompt.md | [#15](https://github.com/Saber5656/whydid/issues/15) |
+| issues/15-response-parser.md | [#16](https://github.com/Saber5656/whydid/issues/16) |
+| issues/16-explain-command.md | [#17](https://github.com/Saber5656/whydid/issues/17) |
+| issues/17-renderer.md | [#18](https://github.com/Saber5656/whydid/issues/18) |
+| issues/18-fix-selection-stdout.md | [#19](https://github.com/Saber5656/whydid/issues/19) |
+| issues/19-consent-show-payload.md | [#20](https://github.com/Saber5656/whydid/issues/20) |
+| issues/20-config-command.md | [#21](https://github.com/Saber5656/whydid/issues/21) |
+| issues/21-doctor-command.md | [#22](https://github.com/Saber5656/whydid/issues/22) |
+| issues/22-security-test-suite.md | [#23](https://github.com/Saber5656/whydid/issues/23) |
+| issues/23-shell-e2e-harness.md | [#24](https://github.com/Saber5656/whydid/issues/24) |
+| issues/24-hardening-audit.md | [#25](https://github.com/Saber5656/whydid/issues/25) |
+| issues/25-goreleaser-release.md | [#26](https://github.com/Saber5656/whydid/issues/26) |
+| issues/26-homebrew-tap.md | [#27](https://github.com/Saber5656/whydid/issues/27) |
+| issues/27-user-docs.md | [#28](https://github.com/Saber5656/whydid/issues/28) |
